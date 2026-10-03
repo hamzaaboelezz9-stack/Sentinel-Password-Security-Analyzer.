@@ -1,0 +1,8 @@
+/*
+  Cache-Control: no-store, max-age=0
+  Pragma: no-cache
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
+  Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; worker-src 'self'; connect-src https://api.pwnedpasswords.com; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; object-src 'none'
